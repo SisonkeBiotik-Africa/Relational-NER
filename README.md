@@ -13,7 +13,7 @@ The repository provides four source codes implemented in Python 3.9 and four dat
  * *dataset.csv*: Dataset of the titles of biomedical scholarly publications about drugs as extracted using the ItemSubjector tool.
  * *drugNER.txt*: Output of the named entity recognition of drugs.
  * *drugs.tsv*: List of drug names used for drug NER and extracted using SPARQL from the Wikidata Knowledge Graph.
- * *relatedNER.txt*: 
+ * *relatedNER.txt*: Output of our relation-based named entity recognition algorithm.
 ## Dependencies
 * Langdetect 1.0.9
 * Wikibaseintegrator 0.12.0
